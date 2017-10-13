@@ -18,7 +18,7 @@ A memory game, you have to match up pairs to uncover the entire game screen!
 ## IDE
 * Eclipse
 
-## Acknowledgments
+## Achievements Gained
 * Get familiar with Java Programming Language.
 * Create GUI with Java Swing.
 
