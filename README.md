@@ -2,7 +2,7 @@
 
 A memory game, you have to match up pairs to uncover the entire game screen!
 
-### Screenshots
+## Screenshots
 
 ![Alt text](/../screenshots/screenshots/SC_ConcenGame_1.png?raw=true "Welcome Screen")
 ![Alt text](/../screenshots/screenshots/SC_ConcenGame_2.png?raw=true "Choose Mode")
@@ -12,7 +12,7 @@ A memory game, you have to match up pairs to uncover the entire game screen!
 ![Alt text](/../screenshots/screenshots/SC_ConcenGame_6.png?raw=true "Choose 2 images")
 ![Alt text](/../screenshots/screenshots/SC_ConcenGame_7.png?raw=true "Choose 2 images")
 
-### Language Programing
+## Language Programing
 * Java (Swing)
 
 ## IDE
